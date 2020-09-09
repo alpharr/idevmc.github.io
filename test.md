@@ -1,3 +1,3 @@
 ### Welcome Kid 
 
-Client hasn't released yet so wait for it :P
+client has released in like some good 7+ months
